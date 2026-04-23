@@ -152,17 +152,6 @@ Scores are weighted and computed automatically:
 
 ## 🖥️ Screenshots
 
-| View | Description |
-|------|-------------|
-| List View | Full-screen table with filters sidebar |
-| Detail Drawer | Slide-in panel with 3 evaluation tabs |
-| Compare Mode | Side-by-side metric comparison |
-
 ---
 
-## 👨‍💻 Author
-
-Built as **Frontend Assignment 4** — Candidate Review Dashboard  
-Time: ~5–7 hours  
-Stack: React · Vite · CSS
 <img width="1710" height="981" alt="Screenshot 2026-04-23 at 12 55 26 PM" src="https://github.com/user-attachments/assets/502d65e9-159a-4c70-81ee-7c10b76137df" />
